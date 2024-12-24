@@ -1,5 +1,5 @@
-BUDGET TRACKING
-Video Demo: Watch the Demo
+#### BUDGET TRACKING
+#### Video Demo: https://youtu.be/ZN55d1cl-cQ?si=RBXk43OYCdkp0zpr
 This is my final project for CS50. It is a budget tracking application designed to help users manage their finances more efficiently. With this app, users can input various expenses, save them to a CSV file, and get a summary of their spending. The application provides useful features such as categorizing expenses, calculating the total expenses, estimating the remaining budget, and offering a daily spending limit based on the remaining funds.
 
 App Features:
