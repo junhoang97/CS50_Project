@@ -1,5 +1,5 @@
-BUDGET TRACKING
-Video Demo: https://youtu.be/ZN55d1cl-cQ?si=vkP9xh4kLOf52jHw
+# BUDGET TRACKING
+### Video Demo: https://youtu.be/ZN55d1cl-cQ?si=vkP9xh4kLOf52jHw
 
 Final project of CS50
 This repository contains the code examples for the expense tracker
